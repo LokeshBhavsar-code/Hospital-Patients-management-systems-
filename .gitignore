@@ -1,0 +1,8 @@
+# Ignore Python bytecode and cache
+__pycache__/
+
+# Ignore virtual environment folder
+venv/
+
+# Optional: VSCode editor settings (if you don’t want to sync workspace settings)
+.vscode/
